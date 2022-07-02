@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Bd91n01nux")(type "KiCad")(uri "${KIPRJMOD}/symbols/Bd91n01nux.kicad_sym")(options "")(descr ""))
+  (lib (name "ESD7016")(type "KiCad")(uri "${KIPRJMOD}/symbols/ESD7016.kicad_sym")(options "")(descr ""))
+)
